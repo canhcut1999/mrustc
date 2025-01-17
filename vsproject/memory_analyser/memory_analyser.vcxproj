@@ -153,6 +153,7 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalDependencies>dbghelp.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
+<acc name : canhcut1999 : pass: canhcutbede@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="memory_analyser.cpp" />
