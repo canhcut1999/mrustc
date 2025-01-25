@@ -16,7 +16,7 @@ struct Args
 };
 
 struct Dumper
-{
+{n
     struct Filters {
         struct Types {
             bool    macros = true;
